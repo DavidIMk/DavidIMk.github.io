@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+## Personal Information
+
+Name : David Immanuel Maksi
+
+Birthdate : December 22, 1995
+
+Gender : Male
+
+Address : Jalan Ruby Utara No.29, Gading Serpong, Tangerang
+
+Phone : 0857-1528-8212
+
+Email : Davidimmanuelmaksi@gmail.com
+
+## Experience
 
 You can use the [editor on GitHub](https://github.com/DavidIMk/DavidIMk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
