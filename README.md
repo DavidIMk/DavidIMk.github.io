@@ -1,3 +1,5 @@
+# Curriculum Vitae
+
 ## Personal Information
 
 Name : David Immanuel Maksi
@@ -14,38 +16,63 @@ Email : Davidimmanuelmaksi@gmail.com
 
 ## Experience
 
-You can use the [editor on GitHub](https://github.com/DavidIMk/DavidIMk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2018 - 2019 : PT. Infotama Sukses Abadi as a System Engineer (.NET & React). My task here including perform requirement analysis, design, and develop system for client's business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2017 - 2018 : EY (Ernst & Young) Indonesia as an IT Risk Assurance Consultant. My task here including engage in consulting and audit project for EY.
 
-### Markdown
+2016 - 2016 : PT. Matahari Putra Prima (Hypermart) as an System Developer Intern in Human Capital division. My task here including design and build an employee self service system using ASP.NET MVC with C#.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+2013 - 2017 : Bachelor Degree at Universitas Pelita Harapan, majoring in Information System major.
 
-# Header 1
-## Header 2
-### Header 3
+2010 - 2013 : Senior High School at SMAK Penabur Gading Serpong.
 
-- Bulleted
-- List
+## Achievements
 
-1. Numbered
-2. List
+2017 : Best Graduate of Information System Major in Universitas Pelita Harapan's Graduation, batch of July 2017.
 
-**Bold** and _Italic_ and `Code` text
+2016 : Information System Junior of the Year in ‘FIK Awards 2016’ held by Himpunan Mahasiswa Sistem
+Informasi Universitas Pelita Harapan 2015/2016.
 
-[Link](url) and ![Image](src)
-```
+2015 : Best Information System Student Council Member in ‘FIK Awards 2015’ held by Himpunan Mahasiswa Sistem
+Informasi Universitas Pelita Harapan 2014/2015.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Organizational Activities
 
-### Jekyll Themes
+2015 - 2016 : Member of Student Affairs Commission in Student Representative Board Universitas Pelita
+Harapan 2015/2016.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidIMk/DavidIMk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2014 - 2015 : Head of Academic Division in Himpunan Mahasiswa Sistem Informasi
+Universitas Pelita Harapan 2014/2015
 
-### Support or Contact
+2014 - 2015 : Head of Committee in ‘Falcon Project 6’, an annual event held by Himpunan Mahasiswa Sistem Informasi Universitas Pelita Harapan 2014/2015
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Skills
+
+### Computer Skills
+ASP.NET   : oooo<br/>
+C#        : oooo<br/>
+SQL       : oooo<br/>
+Python    : ooo<br/>
+ReactJS   : oooo<br/>
+Javascript: oooo<br/>
+MS Excel  : ooooo<br/>
+
+### Language
+Indonesian   : ooooo<br/>
+English      : ooooo<br/>
+
+### Others
+Accounting   : oooo<br/>
+Consulting   : oooo<br/>
+System Design: oooo<br/>
+
+## Compentences
+
+o Work well individually or within a team, and have strong communication skills<br/>
+o Good time management<br/>
+o Able to work well under pressure<br/>
+o Good organization with attention to details<br/>
+
+
