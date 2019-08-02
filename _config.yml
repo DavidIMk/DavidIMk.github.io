@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: David Immanuel Maksi
 future: true
-description: Welcome to My Page.<br/>
-Kindly view my sample project portfolio here:<br/>
-1. https://github.com/DavidIMk/WideWorldImporters<br/>
-2. https://github.com/DavidIMk/ShoppingCart<br/>
+description: >
+  Welcome to My Page. 
+  Kindly view my sample project portfolio here: 
+  1. https://github.com/DavidIMk/WideWorldImporters 
+  2. https://github.com/DavidIMk/ShoppingCart<br/>
