@@ -4,10 +4,4 @@ future: true
 description: |
   Welcome to My Page. 
   
-  Kindly view my sample project portfolio here: 
-  
-  1. <a href="https://github.com/DavidIMk/WideWorldImporters">Wide World Importers (ASP.NET Core Web API)</a>
-  
-  2. <a href="https://github.com/DavidIMk/ShoppingCart">Shopping Cart (React with Express API)</a>
-  
   
