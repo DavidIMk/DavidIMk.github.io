@@ -1,5 +1,11 @@
 # Curriculum Vitae
 
+## View My Sample Project Portfolio Here:
+
+1. [Pokemon (React Javascript)](https://davidimk.github.io/pokemongo/)
+2. [Shopping Cart (React Javascript)](https://github.com/DavidIMk/ShoppingCart)
+3. [Wide World Importers (ASP.NET Core Web API)](https://github.com/DavidIMk/WideWorldImporters)
+
 ## Personal Information
 
 Name : David Immanuel Maksi
