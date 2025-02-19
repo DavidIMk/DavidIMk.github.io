@@ -2,20 +2,16 @@
 
 ## View My Sample Project Portfolio Here:
 
-1. [Foreign Exchange (React Javascript)](https://github.com/DavidIMk/foreignexchange-code)
-2. [Pokemon (React Javascript)](https://github.com/DavidIMk/pokemongo-code)
-3. [Shopping Cart (React Javascript)](https://github.com/DavidIMk/ShoppingCart)
+1. [Movie DB (React Javascript with Vite)](https://github.com/DavidIMk/movie-db)
+2. [Steak Timer (React Javascript with Vite and Tailwind)](https://github.com/DavidIMk/steak-timer)
+3. [Villager CRUD (NodeJS with Express)](https://github.com/DavidIMk/villager-crud)
 4. [Wide World Importers (ASP.NET Core Web API)](https://github.com/DavidIMk/WideWorldImporters)
 
 ## Personal Information
 
 Name : David Immanuel Maksi
 
-Birthdate : December 22, 1995
-
 Gender : Male
-
-Address : Jalan Ruby Utara No.29, Gading Serpong, Tangerang
 
 Phone : 0857-1528-8212
 
@@ -23,57 +19,54 @@ Email : Davidimmanuelmaksi@gmail.com
 
 ## Experience
 
-2018 - 2019 : PT. Infotama Sukses Abadi as a System Engineer (.NET & React). My task here including perform requirement analysis, design, and develop system for client's business.
+2024 - Present : Accelbyte as a Software Engineering Manager. Develop and maintain client web application
 
-2017 - 2018 : EY (Ernst & Young) Indonesia as an IT Risk Assurance Consultant. My task here including engage in consulting and audit project for EY.
+2023 - 2024 : Accelbyte as a Software Engineer III. Develop and maintain client web application
 
-2016 - 2016 : PT. Matahari Putra Prima (Hypermart) as an System Developer Intern in Human Capital division. My task here including design and build an employee self service system using ASP.NET MVC with C#.
+2022 - 2023 : Shopee Indonesia as a Lead Frontend Software Engineer. Lead a team to develop frontend feature of company's application
+
+2021 - 2022 : Shopee Indonesia as a Senior Frontend Software Engineer. Develop frontend feature of company's application
+
+2019 - 2021 : Shopee Indonesia as a Frontend Software Engineer. Develop frontend feature of company's application
+
+2018 - 2019 : PT. Infotama Sukses Abadi as a Software Engineer (.NET & React).
+
+2017 - 2018 : EY (Ernst & Young) Indonesia as an IT Risk Assurance Consultant.
+
+2016 - 2016 : PT. Matahari Putra Prima (Hypermart) as an Software Developer Intern.
 
 ## Education
 
 2013 - 2017 : Bachelor Degree at Universitas Pelita Harapan, majoring in Information System major.
 
-2010 - 2013 : Senior High School at SMAK Penabur Gading Serpong.
-
 ## Achievements
 
 2017 : Best Graduate of Information System Major in Universitas Pelita Harapan's Graduation, batch of July 2017.
 
-2016 : Information System Junior of the Year in ‘FIK Awards 2016’ held by Himpunan Mahasiswa Sistem
-Informasi Universitas Pelita Harapan 2015/2016.
-
-2015 : Best Information System Student Council Member in ‘FIK Awards 2015’ held by Himpunan Mahasiswa Sistem
-Informasi Universitas Pelita Harapan 2014/2015.
-
 ## Organizational Activities
 
-2015 - 2016 : Member of Student Affairs Commission in Student Representative Board Universitas Pelita
+2015 - 2016 : Member of Student Representative Board Universitas Pelita
 Harapan 2015/2016.
 
 2014 - 2015 : Head of Academic Division in Himpunan Mahasiswa Sistem Informasi
 Universitas Pelita Harapan 2014/2015
 
-2014 - 2015 : Head of Committee in ‘Falcon Project 6’, an annual event held by Himpunan Mahasiswa Sistem Informasi Universitas Pelita Harapan 2014/2015
-
 ## Skills
 
 ### Computer Skills
-ASP.NET   : oooo<br/>
-C#        : oooo<br/>
-SQL       : oooo<br/>
-Python    : ooo<br/>
-ReactJS   : oooo<br/>
-Javascript: oooo<br/>
-MS Excel  : ooooo<br/>
+Javascript
+Typescript
+React JS
+Next JS
+Node JS
+React Native
+Python
+SQL
+Project Management
 
 ### Language
-Indonesian   : ooooo<br/>
-English      : ooooo<br/>
-
-### Others
-Accounting   : oooo<br/>
-Consulting   : oooo<br/>
-System Design: oooo<br/>
+Indonesian   
+English      
 
 ## Compentences
 
